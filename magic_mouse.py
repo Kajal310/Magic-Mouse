@@ -2,7 +2,7 @@ import cv2
 import mouse
 import numpy as np
 import math
-import wx 
+ 
 
     
 def isPointClose(x1,y1,x2,y2,scale):
