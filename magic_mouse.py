@@ -113,7 +113,3 @@ while True:
         break;
 cv2.destroyAllWindows();
 capture.release();
-
-
-
-
